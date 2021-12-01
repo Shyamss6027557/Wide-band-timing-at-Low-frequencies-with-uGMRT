@@ -1,4 +1,4 @@
-Band 3 of uGMRT -- 300-500   MHz\n
+Band 3 of uGMRT -- 300-500   MHz\\*
 Band 4          -- 550-750   MHz\n
 Band 5          -- 1060-1460 MHz\n
 J2145-0750, J1640+2224, and J1713-0747 are bright very MSP's with stable period, period dot values. We've observed these pulsars in Band 3, Band 5 of uGMRT. 
