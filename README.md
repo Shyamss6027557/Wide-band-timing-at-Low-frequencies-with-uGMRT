@@ -7,3 +7,6 @@ As a sample I've attached Band 3 jupyter notebooks for J2145-0750, J1640+2224, a
 All notebooks require folded data cube in PSRCHIVE FITS format. 
 Initial guess for aligning, in each notebook, is provided as the highest SNR data among the set of epochs.
 Details about the wide-band timing software "Pulse Portraiture" are available at https://github.com/pennucci/PulsePortraiture. 
+
+
+Scripts* files are GMRT polarisation data reduction programs. For GMRT beam data, there is banshape correction and incoherent dedispersion script. Plotting scripts for the frequency-phase and the subint-phase are also included. It also includes the script for the delay calibration of the polarisation data.
